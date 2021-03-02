@@ -1,5 +1,5 @@
 # typescript
-TypeScript语法学习
+##TypeScript语法学习
 
 Typescript是JavaScript的超集，拥有类型机制
 
